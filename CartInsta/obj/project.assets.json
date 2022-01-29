@@ -9850,26 +9850,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Developer\\.nuget\\packages\\": {}
+    "C:\\Users\\avjag\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Developer\\Desktop\\School at WTAMU\\4390\\BestAssign3\\CartInsta\\CartInsta.csproj",
+      "projectUniqueName": "D:\\Classes\\SoftDev Capstone\\VS Code Projects\\Best Assign 3\\BestAssign3\\CartInsta\\CartInsta.csproj",
       "projectName": "CartInsta",
-      "projectPath": "C:\\Users\\Developer\\Desktop\\School at WTAMU\\4390\\BestAssign3\\CartInsta\\CartInsta.csproj",
-      "packagesPath": "C:\\Users\\Developer\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Developer\\Desktop\\School at WTAMU\\4390\\BestAssign3\\CartInsta\\obj\\",
+      "projectPath": "D:\\Classes\\SoftDev Capstone\\VS Code Projects\\Best Assign 3\\BestAssign3\\CartInsta\\CartInsta.csproj",
+      "packagesPath": "C:\\Users\\avjag\\.nuget\\packages\\",
+      "outputPath": "D:\\Classes\\SoftDev Capstone\\VS Code Projects\\Best Assign 3\\BestAssign3\\CartInsta\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Developer\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\avjag\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

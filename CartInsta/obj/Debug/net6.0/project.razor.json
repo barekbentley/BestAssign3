@@ -16313,8 +16313,23 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "d:\\Classes\\SoftDev Capstone\\VS Code Projects\\Best Assign 3\\BestAssign3\\CartInsta\\Pages\\Users\\Edit.cshtml",
+      "TargetPath": "Pages\\Users\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "d:\\Classes\\SoftDev Capstone\\VS Code Projects\\Best Assign 3\\BestAssign3\\CartInsta\\Pages\\_ViewImports.cshtml",
       "TargetPath": "Pages\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\Classes\\SoftDev Capstone\\VS Code Projects\\Best Assign 3\\BestAssign3\\CartInsta\\Pages\\Users\\Index.cshtml",
+      "TargetPath": "Pages\\Users\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\Classes\\SoftDev Capstone\\VS Code Projects\\Best Assign 3\\BestAssign3\\CartInsta\\Pages\\Users\\Details.cshtml",
+      "TargetPath": "Pages\\Users\\Details.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -16328,8 +16343,18 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "d:\\Classes\\SoftDev Capstone\\VS Code Projects\\Best Assign 3\\BestAssign3\\CartInsta\\Pages\\Users\\Create.cshtml",
+      "TargetPath": "Pages\\Users\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "d:\\Classes\\SoftDev Capstone\\VS Code Projects\\Best Assign 3\\BestAssign3\\CartInsta\\Pages\\Error.cshtml",
       "TargetPath": "Pages\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\Classes\\SoftDev Capstone\\VS Code Projects\\Best Assign 3\\BestAssign3\\CartInsta\\Pages\\Users\\Delete.cshtml",
+      "TargetPath": "Pages\\Users\\Delete.cshtml",
       "FileKind": "mvc"
     }
   ],
