@@ -33,6 +33,8 @@ namespace  CartInsta.Models {
         public DateTime BirthDay {get; set;}
         
         public long Phone {get; set;}
+
+        public ICollection<Order> Orders { get; set; } //navigation property
         
     }
 }

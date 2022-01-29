@@ -27,5 +27,7 @@ namespace  CartInsta.Models {
             }
         }
         public long Phone {get; set;}
+
+        public ICollection<Order> Orders { get; set; } //navigation property
     }
 }
