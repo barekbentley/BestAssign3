@@ -18,21 +18,15 @@
                     <span class="navbar-toggler-icon"></span>
                 </button>
                 <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
-                    <ul class="navbar-nav flex-grow-1">                        
+                    <ul class="navbar-nav flex-grow-1">
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-page="/About">About</a>
+                            <a class="nav-link text-dark" asp-area="" asp-page="/Users/Index">Users</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-page="/Students/Index">Students</a>
+                            <a class="nav-link text-dark" asp-area="" asp-page="/Courses/Index">Orders</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-page="/Courses/Index">Courses</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-page="/Instructors/Index">Instructors</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-page="/Departments/Index">Departments</a>
+                            <a class="nav-link text-dark" asp-area="" asp-page="/Instructors/Index">Delivery People</a>
                         </li>
                     </ul>
                 </div>
@@ -58,3 +52,5 @@
     @await RenderSectionAsync("Scripts", required: false)
 </body>
 </html>
+
+<!-- We will create CRUD for Delivery Person and Orders as well in Sprint 1-->
