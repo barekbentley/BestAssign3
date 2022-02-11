@@ -9850,19 +9850,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\avjag\\.nuget\\packages\\": {}
+    "C:\\Users\\ajagdale\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Classes\\SoftDev Capstone\\VS Code Projects\\Best Assign 3\\BestAssign3\\CartInsta\\CartInsta.csproj",
+      "projectUniqueName": "C:\\Users\\ajagdale\\Downloads\\4390_Assignment_3\\BestAssign3\\CartInsta\\CartInsta.csproj",
       "projectName": "CartInsta",
-      "projectPath": "D:\\Classes\\SoftDev Capstone\\VS Code Projects\\Best Assign 3\\BestAssign3\\CartInsta\\CartInsta.csproj",
-      "packagesPath": "C:\\Users\\avjag\\.nuget\\packages\\",
-      "outputPath": "D:\\Classes\\SoftDev Capstone\\VS Code Projects\\Best Assign 3\\BestAssign3\\CartInsta\\obj\\",
+      "projectPath": "C:\\Users\\ajagdale\\Downloads\\4390_Assignment_3\\BestAssign3\\CartInsta\\CartInsta.csproj",
+      "packagesPath": "C:\\Users\\ajagdale\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ajagdale\\Downloads\\4390_Assignment_3\\BestAssign3\\CartInsta\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\avjag\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\ajagdale\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -9933,7 +9933,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }

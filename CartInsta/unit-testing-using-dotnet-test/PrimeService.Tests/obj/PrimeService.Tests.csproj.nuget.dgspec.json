@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ajagdale\\Downloads\\4390_Assignment_3\\BestAssign3\\CartInsta\\CartInsta.csproj": {}
+    "C:\\Users\\ajagdale\\Downloads\\4390_Assignment_3\\BestAssign3\\CartInsta\\unit-testing-using-dotnet-test\\PrimeService.Tests\\PrimeService.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ajagdale\\Downloads\\4390_Assignment_3\\BestAssign3\\CartInsta\\CartInsta.csproj": {
+    "C:\\Users\\ajagdale\\Downloads\\4390_Assignment_3\\BestAssign3\\CartInsta\\unit-testing-using-dotnet-test\\PrimeService.Tests\\PrimeService.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ajagdale\\Downloads\\4390_Assignment_3\\BestAssign3\\CartInsta\\CartInsta.csproj",
-        "projectName": "CartInsta",
-        "projectPath": "C:\\Users\\ajagdale\\Downloads\\4390_Assignment_3\\BestAssign3\\CartInsta\\CartInsta.csproj",
+        "projectUniqueName": "C:\\Users\\ajagdale\\Downloads\\4390_Assignment_3\\BestAssign3\\CartInsta\\unit-testing-using-dotnet-test\\PrimeService.Tests\\PrimeService.Tests.csproj",
+        "projectName": "PrimeService.Tests",
+        "projectPath": "C:\\Users\\ajagdale\\Downloads\\4390_Assignment_3\\BestAssign3\\CartInsta\\unit-testing-using-dotnet-test\\PrimeService.Tests\\PrimeService.Tests.csproj",
         "packagesPath": "C:\\Users\\ajagdale\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ajagdale\\Downloads\\4390_Assignment_3\\BestAssign3\\CartInsta\\obj\\",
+        "outputPath": "C:\\Users\\ajagdale\\Downloads\\4390_Assignment_3\\BestAssign3\\CartInsta\\unit-testing-using-dotnet-test\\PrimeService.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ajagdale\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -38,33 +38,25 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
-            "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
+            "Microsoft.NET.Test.Sdk": {
               "target": "Package",
-              "version": "[6.0.1, )"
+              "version": "[16.11.0, )"
             },
-            "Microsoft.EntityFrameworkCore.Design": {
+            "coverlet.collector": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[6.0.1, )"
+              "version": "[3.1.0, )"
             },
-            "Microsoft.EntityFrameworkCore.SQLite": {
+            "xunit": {
               "target": "Package",
-              "version": "[6.0.1, )"
+              "version": "[2.4.1, )"
             },
-            "Microsoft.EntityFrameworkCore.SqlServer": {
-              "target": "Package",
-              "version": "[6.0.1, )"
-            },
-            "Microsoft.EntityFrameworkCore.Tools": {
+            "xunit.runner.visualstudio": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[6.0.1, )"
-            },
-            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
-              "target": "Package",
-              "version": "[6.0.1, )"
+              "version": "[2.4.3, )"
             }
           },
           "imports": [
@@ -78,9 +70,6 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
